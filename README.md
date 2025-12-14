@@ -1,6 +1,10 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="./asset/banner-black.gif" width="100%" alt="Security banner"/>
+  <img
+    src="./asset/banner-black.gif"
+    alt="Security banner"
+    style="max-width: 820px; width: 100%; border-radius: 12px;"
+  />
 </p>
 
 <h1 align="center">Hi, I'm <span style="font-weight:700;">Ferdiansyah</span> 👋</h1>
@@ -23,7 +27,12 @@
 </p>
 
 <p align="center">
-  <img src="./asset/banner.gif" width="520" alt="terminal animation"/>
+  <img
+    src="./asset/banner.gif"
+    width="420"
+    alt="terminal animation"
+    style="border-radius: 12px;"
+  />
 </p>
 
 ---
