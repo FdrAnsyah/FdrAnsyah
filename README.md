@@ -3,7 +3,7 @@
   <img src="./asset/banner-black.gif" width="100%" alt="Security banner"/>
 </p>
 
-<h1 align="center">Hi, I'm <span style="font-weight:700;">FdrAnsyah</span> 👋</h1>
+<h1 align="center">Hi, I'm <span style="font-weight:700;">Ferdiansyah</span> 👋</h1>
 
 <p align="center">
   <b>Cyber Security Enthusiast · DevOpsSec · Network Engineer · System Administrator · CTF Player</b><br/>
