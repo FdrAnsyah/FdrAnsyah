@@ -1,0 +1,21 @@
+name: Latest notes/posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # jalan tiap hari jam 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update blog posts section
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "ISI_RSS_KAMU_DI_SINI"
