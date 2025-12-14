@@ -144,6 +144,8 @@
 ## 📝 Latest Notes / Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Menginstall Ubuntu Server 22.04 di VirtualBox](https://dihlearn.blogspot.com/2024/03/menginstall-ubuntu-server-2204-apache.html)
+- [Network Fundamentals](https://dihlearn.blogspot.com/2024/01/summary-pembelajaran-network-fundamental.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
