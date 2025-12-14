@@ -1,6 +1,6 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="./asset/banner-light.gif" width="100%" alt="Security banner"/>
+  <img src="./asset/banner-black.gif" width="100%" alt="Security banner"/>
 </p>
 
 <h1 align="center">Hi, I'm <span style="font-weight:700;">FdrAnsyah</span> 👋</h1>
