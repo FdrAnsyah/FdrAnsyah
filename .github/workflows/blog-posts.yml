@@ -2,7 +2,7 @@ name: Latest notes/posts
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # jalan tiap hari jam 00:00 UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,4 +18,4 @@ jobs:
       - name: Update blog posts section
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "ISI_RSS_KAMU_DI_SINI"
+          feed_list: "https://dihlearn.blogspot.com/feeds/posts/default?alt=rss"
