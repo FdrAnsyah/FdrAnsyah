@@ -131,19 +131,6 @@
 
 ---
 
-<!-- ================ LABS & CTF EXPLAINED ================ -->
-## 🧪 Labs & CTF Workflow
-
-> How I usually learn:
-
-1. **Plan**: pick a topic (e.g. web vuln, network design, service deployment)
-2. **Build**: create or extend a small lab (VMs, containers, Packet Tracer, MikroTik)
-3. **Break**: simulate misconfig, attacks, or failures in a safe environment
-4. **Fix**: apply hardening, logging, monitoring, or architecture improvements
-5. **Document**: write notes or summaries into repos like `KadCrack`, `Keamanan_web`, or `BAC_Lab`
-
----
-
 <!-- ================ ACTIVITY & POSTS ================ -->
 ## 📡 Recent Activity
 
