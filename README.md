@@ -135,11 +135,11 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/FdrAnsyah](https://github.com/FdrAnsyah/FdrAnsyah)<br>
-2. ✔️ Closed issue [#5](https://github.com/FdrAnsyah/FdrAnsyah/issues/5) in [FdrAnsyah/FdrAnsyah](https://github.com/FdrAnsyah/FdrAnsyah)<br>
-3. ✔️ Closed issue [#6](https://github.com/FdrAnsyah/FdrAnsyah/issues/6) in [FdrAnsyah/FdrAnsyah](https://github.com/FdrAnsyah/FdrAnsyah)<br>
-4. ✔️ Closed issue [#2](https://github.com/FdrAnsyah/FdrAnsyah/issues/2) in [FdrAnsyah/FdrAnsyah](https://github.com/FdrAnsyah/FdrAnsyah)<br>
-5. ✔️ Closed issue [#1](https://github.com/FdrAnsyah/FdrAnsyah/issues/1) in [FdrAnsyah/FdrAnsyah](https://github.com/FdrAnsyah/FdrAnsyah)<br>
+1. 🤝 Became collaborator on [IllalRajinCoding/horedev4sec](https://github.com/IllalRajinCoding/horedev4sec)<br>
+2. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/FdrAnsyah](https://github.com/FdrAnsyah/FdrAnsyah)<br>
+3. ✔️ Closed issue [#5](https://github.com/FdrAnsyah/FdrAnsyah/issues/5) in [FdrAnsyah/FdrAnsyah](https://github.com/FdrAnsyah/FdrAnsyah)<br>
+4. ✔️ Closed issue [#6](https://github.com/FdrAnsyah/FdrAnsyah/issues/6) in [FdrAnsyah/FdrAnsyah](https://github.com/FdrAnsyah/FdrAnsyah)<br>
+5. ✔️ Closed issue [#2](https://github.com/FdrAnsyah/FdrAnsyah/issues/2) in [FdrAnsyah/FdrAnsyah](https://github.com/FdrAnsyah/FdrAnsyah)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
