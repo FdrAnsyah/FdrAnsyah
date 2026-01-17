@@ -135,11 +135,11 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam)<br>
+1. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_GrandStation](https://github.com/FdrAnsyah/UAS_GrandStation)<br>
 2. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_GrandStation](https://github.com/FdrAnsyah/UAS_GrandStation)<br>
-3. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_GrandStation](https://github.com/FdrAnsyah/UAS_GrandStation)<br>
+3. ⭐ Starred [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam)<br>
 4. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_GrandStation](https://github.com/FdrAnsyah/UAS_GrandStation)<br>
-5. ⭐ Starred [zakirkun/guardian-cli](https://github.com/zakirkun/guardian-cli)<br>
+5. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_GrandStation](https://github.com/FdrAnsyah/UAS_GrandStation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
