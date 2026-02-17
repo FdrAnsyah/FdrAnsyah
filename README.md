@@ -139,7 +139,6 @@
 2. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_GrandStation](https://github.com/FdrAnsyah/UAS_GrandStation)<br>
 3. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_GrandStation](https://github.com/FdrAnsyah/UAS_GrandStation)<br>
 4. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_GrandStation](https://github.com/FdrAnsyah/UAS_GrandStation)<br>
-5. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_GrandStation](https://github.com/FdrAnsyah/UAS_GrandStation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
