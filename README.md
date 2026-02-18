@@ -136,7 +136,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [justdsn/XSSPayloads](https://github.com/justdsn/XSSPayloads)<br>
-2. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_GrandStation](https://github.com/FdrAnsyah/UAS_GrandStation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
