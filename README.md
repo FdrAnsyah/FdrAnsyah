@@ -135,7 +135,9 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [justdsn/XSSPayloads](https://github.com/justdsn/XSSPayloads)<br>
+1. 🤝 Became collaborator on [Terpadu-Nurul-Fikri/BE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest)<br>
+2. 🤝 Became collaborator on [Terpadu-Nurul-Fikri/FE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/FE-BlockNest)<br>
+3. ⭐ Starred [justdsn/XSSPayloads](https://github.com/justdsn/XSSPayloads)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
