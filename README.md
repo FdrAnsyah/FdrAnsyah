@@ -135,8 +135,10 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Terpadu-Nurul-Fikri/BE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest)<br>
-2. 🤝 Became collaborator on [Terpadu-Nurul-Fikri/FE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/FE-BlockNest)<br>
+1. 💪 Opened PR [#2](undefined) in [Terpadu-Nurul-Fikri/BE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest)<br>
+2. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/BE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest)<br>
+3. 🤝 Became collaborator on [Terpadu-Nurul-Fikri/BE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest)<br>
+4. 🤝 Became collaborator on [Terpadu-Nurul-Fikri/FE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/FE-BlockNest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
