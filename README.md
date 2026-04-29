@@ -135,7 +135,6 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest/pull/2#issuecomment-4151693099) in [Terpadu-Nurul-Fikri/BE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
