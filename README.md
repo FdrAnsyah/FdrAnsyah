@@ -135,6 +135,7 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [cyberbreaker-id/challenges-2025](https://github.com/cyberbreaker-id/challenges-2025)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
