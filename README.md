@@ -135,7 +135,8 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cyberbreaker-id/challenges-2025](https://github.com/cyberbreaker-id/challenges-2025)<br>
+1. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)<br>
+2. ⭐ Starred [cyberbreaker-id/challenges-2025](https://github.com/cyberbreaker-id/challenges-2025)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
