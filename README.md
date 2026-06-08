@@ -139,7 +139,6 @@
 2. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/FE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/FE-BlockNest)<br>
 3. 💪 Opened PR [#3](undefined) in [Terpadu-Nurul-Fikri/FE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/FE-BlockNest)<br>
 4. 💪 Opened PR [#18](undefined) in [Terpadu-Nurul-Fikri/BE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest)<br>
-5. ⭐ Starred [Nothingness1312/RCE-Lab-Platform](https://github.com/Nothingness1312/RCE-Lab-Platform)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
