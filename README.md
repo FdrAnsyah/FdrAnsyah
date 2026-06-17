@@ -135,11 +135,11 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/BE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest)<br>
-2. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/FE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/FE-BlockNest)<br>
+1. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/GalaxyCare](https://github.com/Terpadu-Nurul-Fikri/GalaxyCare)<br>
+2. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/GalaxyCare](https://github.com/Terpadu-Nurul-Fikri/GalaxyCare)<br>
 3. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/BE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest)<br>
-4. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/BE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest)<br>
-5. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/FE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/FE-BlockNest)<br>
+4. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/FE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/FE-BlockNest)<br>
+5. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/BE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
