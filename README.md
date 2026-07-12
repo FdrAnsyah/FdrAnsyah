@@ -139,7 +139,6 @@
 2. ⭐ Starred [OpenSecurityIN/Mobile-Security-Framework-MobSF](https://github.com/OpenSecurityIN/Mobile-Security-Framework-MobSF)<br>
 3. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/GalaxyCare](https://github.com/Terpadu-Nurul-Fikri/GalaxyCare)<br>
 4. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/GalaxyCare](https://github.com/Terpadu-Nurul-Fikri/GalaxyCare)<br>
-5. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/BE-BlockNest](https://github.com/Terpadu-Nurul-Fikri/BE-BlockNest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
