@@ -135,10 +135,11 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/GalaxyCare](https://github.com/Terpadu-Nurul-Fikri/GalaxyCare)<br>
-2. ⭐ Starred [OpenSecurityIN/Mobile-Security-Framework-MobSF](https://github.com/OpenSecurityIN/Mobile-Security-Framework-MobSF)<br>
+1. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_VDKJ](https://github.com/FdrAnsyah/UAS_VDKJ)<br>
+2. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_VDKJ](https://github.com/FdrAnsyah/UAS_VDKJ)<br>
 3. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/GalaxyCare](https://github.com/Terpadu-Nurul-Fikri/GalaxyCare)<br>
-4. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/GalaxyCare](https://github.com/Terpadu-Nurul-Fikri/GalaxyCare)<br>
+4. ⭐ Starred [OpenSecurityIN/Mobile-Security-Framework-MobSF](https://github.com/OpenSecurityIN/Mobile-Security-Framework-MobSF)<br>
+5. ⬆️ Pushed undefined commit(s) to [Terpadu-Nurul-Fikri/GalaxyCare](https://github.com/Terpadu-Nurul-Fikri/GalaxyCare)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
