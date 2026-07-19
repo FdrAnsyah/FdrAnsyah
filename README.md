@@ -136,10 +136,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [NFCC-Com/nfcc](https://github.com/NFCC-Com/nfcc)<br>
-2. ⭐ Starred [uclaacm/lactf-archive](https://github.com/uclaacm/lactf-archive)<br>
-3. ⭐ Starred [AmineIEF/CTF-Archive](https://github.com/AmineIEF/CTF-Archive)<br>
-4. 🔱 Forked [FdrAnsyah/plane](https://github.com/FdrAnsyah/plane) from [makeplane/plane](https://github.com/makeplane/plane)<br>
-5. ⬆️ Pushed undefined commit(s) to [FdrAnsyah/UAS_VDKJ](https://github.com/FdrAnsyah/UAS_VDKJ)<br>
+2. ⬆️ Pushed undefined commit(s) to [NFCC-Com/nfcc](https://github.com/NFCC-Com/nfcc)<br>
+3. ⬆️ Pushed undefined commit(s) to [NFCC-Com/nfcc](https://github.com/NFCC-Com/nfcc)<br>
+4. ⬆️ Pushed undefined commit(s) to [NFCC-Com/nfcc](https://github.com/NFCC-Com/nfcc)<br>
+5. ⬆️ Pushed undefined commit(s) to [NFCC-Com/nfcc](https://github.com/NFCC-Com/nfcc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
