@@ -135,7 +135,7 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [NFCC-Com/nfcc](https://github.com/NFCC-Com/nfcc)<br>
+1. ⭐ Starred [ShundaZhang/CTF](https://github.com/ShundaZhang/CTF)<br>
 2. ⬆️ Pushed undefined commit(s) to [NFCC-Com/nfcc](https://github.com/NFCC-Com/nfcc)<br>
 3. ⬆️ Pushed undefined commit(s) to [NFCC-Com/nfcc](https://github.com/NFCC-Com/nfcc)<br>
 4. ⬆️ Pushed undefined commit(s) to [NFCC-Com/nfcc](https://github.com/NFCC-Com/nfcc)<br>
