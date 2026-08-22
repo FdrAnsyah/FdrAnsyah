@@ -138,8 +138,6 @@
 1. ⭐ Starred [INFOKOM-KI/Wazuh-MCP-Server](https://github.com/INFOKOM-KI/Wazuh-MCP-Server)<br>
 2. ⭐ Starred [shelvy1337/Cybersecurity-Writeups](https://github.com/shelvy1337/Cybersecurity-Writeups)<br>
 3. ⭐ Starred [BrookNLF/THM-HackerHolidays-2026](https://github.com/BrookNLF/THM-HackerHolidays-2026)<br>
-4. ⭐ Starred [AVDestroyer/CTF-Writeups](https://github.com/AVDestroyer/CTF-Writeups)<br>
-5. ⭐ Starred [tim-barc/ctf_writeups](https://github.com/tim-barc/ctf_writeups)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
