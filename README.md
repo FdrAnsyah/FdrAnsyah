@@ -135,9 +135,11 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [INFOKOM-KI/Wazuh-MCP-Server](https://github.com/INFOKOM-KI/Wazuh-MCP-Server)<br>
-2. ⭐ Starred [shelvy1337/Cybersecurity-Writeups](https://github.com/shelvy1337/Cybersecurity-Writeups)<br>
-3. ⭐ Starred [BrookNLF/THM-HackerHolidays-2026](https://github.com/BrookNLF/THM-HackerHolidays-2026)<br>
+1. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
+2. ⭐ Starred [yavuzceliker/sample-images](https://github.com/yavuzceliker/sample-images)<br>
+3. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
+4. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
+5. ⭐ Starred [INFOKOM-KI/Wazuh-MCP-Server](https://github.com/INFOKOM-KI/Wazuh-MCP-Server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
