@@ -136,10 +136,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
-2. ⭐ Starred [yavuzceliker/sample-images](https://github.com/yavuzceliker/sample-images)<br>
+2. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
 3. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
 4. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
-5. ⭐ Starred [INFOKOM-KI/Wazuh-MCP-Server](https://github.com/INFOKOM-KI/Wazuh-MCP-Server)<br>
+5. ⭐ Starred [yavuzceliker/sample-images](https://github.com/yavuzceliker/sample-images)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
