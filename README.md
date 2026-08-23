@@ -139,7 +139,7 @@
 2. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
 3. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
 4. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
-5. ⭐ Starred [yavuzceliker/sample-images](https://github.com/yavuzceliker/sample-images)<br>
+5. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
