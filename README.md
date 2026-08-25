@@ -135,8 +135,8 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
-2. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
+1. 🔱 Forked [FdrAnsyah/ctf-skills](https://github.com/FdrAnsyah/ctf-skills) from [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)<br>
+2. ⭐ Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)<br>
 3. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
 4. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
 5. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
