@@ -138,8 +138,6 @@
 1. ⭐ Starred [dicegang/dicectf-quals-2025-challenges](https://github.com/dicegang/dicectf-quals-2025-challenges)<br>
 2. 🔱 Forked [FdrAnsyah/ctf-skills](https://github.com/FdrAnsyah/ctf-skills) from [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)<br>
 3. ⭐ Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)<br>
-4. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
-5. ⬆️ Pushed undefined commit(s) to [NFCC-Com/challenges](https://github.com/NFCC-Com/challenges)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
