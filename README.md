@@ -136,8 +136,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [dicegang/dicectf-quals-2025-challenges](https://github.com/dicegang/dicectf-quals-2025-challenges)<br>
-2. 🔱 Forked [FdrAnsyah/ctf-skills](https://github.com/FdrAnsyah/ctf-skills) from [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)<br>
-3. ⭐ Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
