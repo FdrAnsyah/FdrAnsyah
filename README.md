@@ -135,7 +135,6 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dicegang/dicectf-quals-2025-challenges](https://github.com/dicegang/dicectf-quals-2025-challenges)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
