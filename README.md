@@ -135,6 +135,7 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
