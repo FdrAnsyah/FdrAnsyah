@@ -135,7 +135,8 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
+1. ⭐ Starred [GebbyWandikbo/CyanShell](https://github.com/GebbyWandikbo/CyanShell)<br>
+2. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
