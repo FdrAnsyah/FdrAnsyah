@@ -139,7 +139,6 @@
 2. ⭐ Starred [samugit83/redamon](https://github.com/samugit83/redamon)<br>
 3. ⭐ Starred [Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes)<br>
 4. ⭐ Starred [GebbyWandikbo/CyanShell](https://github.com/GebbyWandikbo/CyanShell)<br>
-5. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
