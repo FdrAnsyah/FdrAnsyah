@@ -135,10 +135,11 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [insidetrust/awesome-ai-pentest](https://github.com/insidetrust/awesome-ai-pentest)<br>
-2. ⭐ Starred [samugit83/redamon](https://github.com/samugit83/redamon)<br>
-3. ⭐ Starred [Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes)<br>
-4. ⭐ Starred [GebbyWandikbo/CyanShell](https://github.com/GebbyWandikbo/CyanShell)<br>
+1. ⭐ Starred [wicaksana/aws-terraform-opa-guardrails](https://github.com/wicaksana/aws-terraform-opa-guardrails)<br>
+2. ⭐ Starred [insidetrust/awesome-ai-pentest](https://github.com/insidetrust/awesome-ai-pentest)<br>
+3. ⭐ Starred [samugit83/redamon](https://github.com/samugit83/redamon)<br>
+4. ⭐ Starred [Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes)<br>
+5. ⭐ Starred [GebbyWandikbo/CyanShell](https://github.com/GebbyWandikbo/CyanShell)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
