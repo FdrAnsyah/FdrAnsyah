@@ -135,9 +135,10 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wicaksana/aws-terraform-opa-guardrails](https://github.com/wicaksana/aws-terraform-opa-guardrails)<br>
-2. ⭐ Starred [insidetrust/awesome-ai-pentest](https://github.com/insidetrust/awesome-ai-pentest)<br>
-3. ⭐ Starred [samugit83/redamon](https://github.com/samugit83/redamon)<br>
+1. ⭐ Starred [ariafatah0711/cisco_aria](https://github.com/ariafatah0711/cisco_aria)<br>
+2. ⭐ Starred [wicaksana/aws-terraform-opa-guardrails](https://github.com/wicaksana/aws-terraform-opa-guardrails)<br>
+3. ⭐ Starred [insidetrust/awesome-ai-pentest](https://github.com/insidetrust/awesome-ai-pentest)<br>
+4. ⭐ Starred [samugit83/redamon](https://github.com/samugit83/redamon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
