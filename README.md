@@ -135,11 +135,11 @@
 ## 📡 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
-2. ⭐ Starred [ariafatah0711/cisco_aria](https://github.com/ariafatah0711/cisco_aria)<br>
-3. ⭐ Starred [wicaksana/aws-terraform-opa-guardrails](https://github.com/wicaksana/aws-terraform-opa-guardrails)<br>
-4. ⭐ Starred [insidetrust/awesome-ai-pentest](https://github.com/insidetrust/awesome-ai-pentest)<br>
-5. ⭐ Starred [samugit83/redamon](https://github.com/samugit83/redamon)<br>
+1. ⭐ Starred [fyzugx/DEsk](https://github.com/fyzugx/DEsk)<br>
+2. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
+3. ⭐ Starred [ariafatah0711/cisco_aria](https://github.com/ariafatah0711/cisco_aria)<br>
+4. ⭐ Starred [wicaksana/aws-terraform-opa-guardrails](https://github.com/wicaksana/aws-terraform-opa-guardrails)<br>
+5. ⭐ Starred [insidetrust/awesome-ai-pentest](https://github.com/insidetrust/awesome-ai-pentest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
